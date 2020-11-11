@@ -1,4 +1,4 @@
-# LCD HD44780
+# LCD HD44780 with I2C interface
 # Temp sensor DS18B20 (with 4,7K ohm resistor)
 # Arduino Uno
 
